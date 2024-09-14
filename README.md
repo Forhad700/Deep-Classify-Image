@@ -4,7 +4,7 @@ This ia a Deep Learning project designed to classify images like fruits, vegetab
 
 ## Project Architecture and Tools
 
- **Technologies**
+ **Tech Stack**
    - Python
    - TensorFlow
    - Keras
